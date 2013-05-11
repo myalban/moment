@@ -77,8 +77,8 @@ require('../moment').lang('cs', {
     weekdaysShort : "ne_po_út_st_čt_pá_so".split("_"),
     weekdaysMin : "ne_po_út_st_čt_pá_so".split("_"),
     longDateFormat : {
-        LT: "H:mm",
-        L : "DD.MM.YYYY",
+        LT: "H.mm",
+        L : "D. M. YYYY",
         LL : "D. MMMM YYYY",
         LLL : "D. MMMM YYYY LT",
         LLLL : "dddd D. MMMM YYYY LT"
